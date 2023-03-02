@@ -1,0 +1,128 @@
+   .font{
+    display: flex;
+    gap:140px ;
+    padding-top: 15px 15px;
+
+    
+    
+    
+   }
+   .ball{
+    background-color:gainsboro;
+    border-radius: 40px;
+   }
+    .local{
+      display: flex;
+      font-size: 23px;
+      margin-left: 14%;
+    }
+      .chair{
+        display: flex;
+      clear: right;
+      float: right;
+      margin-left: 200px;
+      margin-bottom: 100px;
+      padding: 0px;
+      float: top;
+      }
+      .div{
+        color: white;
+        border-radius: 5px;
+        background-color:black ;
+        border-color: none;
+        padding: 4px;
+    
+      }
+      .products{
+        margin-left: 360px;
+      }
+      .furniture{
+        display: flex;
+        size: 6px;
+        margin-left:100px ;
+        
+        
+      }
+      .log{
+        display: flex;
+        gap:70px;
+        width: 200px;
+        margin-left: 9%px;
+      }
+      .get{
+        background-color: black;
+        color: white;
+        text-align: center;
+         font-size: 15px;
+      }
+      .lag{
+        display: flex;
+        margin-left: 35%;
+        gap:150px;
+        padding: 25px ;
+      
+      }
+      .send{
+        background-color:black;
+        border-color: white;
+        border-radius:10px;
+        color: white;
+        padding: 5px 15px;
+      }
+      .los{
+      display: flex;
+      }
+      .chairs{
+        display: flex;
+        gap :60px;
+        
+        
+      
+      }
+      .lass{
+        size :250px;
+      }
+      .fosa{
+        display: flex;
+      }
+      .src{
+        margin-left: 22%;
+        size-adjust: 56px;
+        
+      }
+      .maga{
+        margin-left: 12%;
+      }
+      .view{
+        margin-left: 32%;
+      }
+      .select{
+        display: flex;
+        gap: 150px;
+        background-color: black;
+        color: white;
+      }
+      .bent{
+        margin-bottom: 40px;
+      }
+      .seat{
+        width:20px;
+
+      }
+      .foot{
+        display: flex;
+        gap:107px;
+        background-color: black;
+        color: white;
+        padding: 6px;
+      }
+
+    
+    
+    
+      
+     
+      
+   
+   
+    
